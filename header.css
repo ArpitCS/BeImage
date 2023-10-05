@@ -1,0 +1,24 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+header .heading {
+    text-align: center;
+    color: black;
+    background-color: #e7e9eb;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+header .heading .left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subnav {
+    background-color: #282A35;
+    text-align: center;
+}

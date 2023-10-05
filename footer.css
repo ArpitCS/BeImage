@@ -1,0 +1,28 @@
+footer {
+    background-color: #282A35;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.footer-bottom{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.footer-section ul li{
+    list-style: none;
+}
+.footer-section ul li a{
+    text-decoration: none;
+    color: white;
+}
+.footer-section ul li a:hover{
+    text-decoration: none;
+    color: rgb(73, 72, 157);
+}
+footer h3{
+    font-family: 'Montserrat', sans-serif;
+}
